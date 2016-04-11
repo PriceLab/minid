@@ -1,0 +1,9 @@
+exportClasses(minid)
+
+export(
+    minid
+)
+
+exportMethods(
+    getCreator
+    )
